@@ -9,9 +9,10 @@
 
 ### Skills 🎯️
 
-💫️ Languages 
+ <!-- 💫️ Languages -->
 
 ![Javascript Badge](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor-FA&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 🎨️ Front-end 
